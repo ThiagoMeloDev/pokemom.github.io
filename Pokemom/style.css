@@ -1,0 +1,109 @@
+body {
+    background: linear-gradient(90deg, black, rgb(207, 207, 23), yellow);
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.Welcome {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.pikachu {
+    position: absolute;
+    top: 22%;
+    left: 12%;
+    color: rgb(255, 255, 0);
+}
+
+
+.Pok {
+    display: flex;
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    top: 10%;
+    left: 65%;
+}
+
+
+.Pika {
+    display: flex;
+    height: 220px;
+    width: 220px;
+    position: absolute;
+    top: 46%;
+    left: 65%;
+}
+
+
+.bio {
+    position: absolute;
+    top: 37%;
+    left: 12%;
+}
+
+
+.bio2 {
+    position: absolute;
+    top: 41%;
+    left: 12%;
+}
+
+.bio3 {
+    position: absolute;
+    top: 45%;
+    left: 12%;
+}
+
+
+.bio4 {
+    position: absolute;
+    top: 49%;
+    left: 12%;
+}
+
+
+.borda {
+    width: 180px;
+    height: 1px;
+    background: transparent;
+    border: 2px solid rgb(255, 251, 28);
+    backdrop-filter: blur(100000px);
+    border-radius: 10px;
+    padding: 26px 40px;
+    position: absolute;
+    top: 68%;
+    left: 12%;
+}
+
+
+.boll {
+    position: absolute;
+    top: 69%;
+    left: 13%;
+}
+
+
+.kaka {
+    position: absolute;
+    top: 65%;
+    left: 18%;
+}
+
+
+.kaka2 {
+    position: absolute;
+    top: 69%;
+    left: 18%;
+}
+
+
+.poke9 {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    color: rgb(255, 255, 0);
+}
+
